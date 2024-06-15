@@ -7,6 +7,8 @@
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeandevv&show_icons=true&theme=tokyonight)
 
 
+[![An image of @jeandevv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jeandevv)](https://holopin.io/@jeandevv)
+
 ### Tecnologia que utilizo no dia-a-dia
 
 <div style="display: inline_block"><br/>
